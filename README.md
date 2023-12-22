@@ -3,3 +3,5 @@ A mobile application using React Native for finding countries around the world a
 
 This project uses data from the REST Countries API to build itself.<br>
 Visit https://restcountries.com for more info about it :)
+
+Project layout (Figma): https://www.figma.com/file/CUJgnKsREx9c3P6JbrZTSX/Country-Trivia?type=design&t=phNWzUBxHbzCNU3L-6
